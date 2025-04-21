@@ -7,7 +7,9 @@ To run the web application in the lab, open the terminal and redirect to the loc
 web-app file.
 
 Next, run the command
-````node app.js````
+````
+node app.js
+````
 
 ER model
 ![ER model](https://github.com/user-attachments/assets/b6b4f3c5-c1ba-42cb-8a25-fe8177b4518b)
