@@ -3,13 +3,14 @@ This is a MySQL relational database populated with data about smartphones, with 
 
 Dataset: https://www.kaggle.com/datasets/informrohit1/smartphones-dataset
 
-To run the web application in the lab, open the terminal and redirect to the location of the
+To run the web application in the browser, open the terminal and redirect to the location of the
 web-app file.
 
 Next, run the command
 ````
 node app.js
 ````
+The web app can then be viewed by opening the browser preview and entering the URL.
 
 ER model
 ![ER model](https://github.com/user-attachments/assets/b6b4f3c5-c1ba-42cb-8a25-fe8177b4518b)
