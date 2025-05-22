@@ -5,15 +5,19 @@ Dataset: https://www.kaggle.com/datasets/informrohit1/smartphones-dataset
 
 To set up the database, run the following scripts located in the "scripts" folder in this order:
 1. setup-database.sql
+
 This creates the database.
   
 2. create-tables.sql
+
 This creates all the necessary tables in the database.
 
 3. load-dnorm-date.sql
+
 This creates the table "denormalised" and inserts all the data from the CSV file as a denormalised dataset.
 
 4. ingest-data.sql
+
 This inserts the data from the denormalised table into the tables created from create-tables.sql
 
 To run the web application in the browser, open the terminal and redirect to the location of the
